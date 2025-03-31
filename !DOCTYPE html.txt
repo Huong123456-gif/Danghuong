@@ -53,7 +53,7 @@
     <img src="https://via.placeholder.com/100" alt="Avatar" class="avatar">
     <h1>Tô Lâm</h1>
     <p>Kết nối với tôi qua các nền tảng dưới đây!</p>
-<a href="https://www.facebook.com/huongbrian.0711" target="_blank"></a>
+<a href="https://www.facebook.com/huongbrian.0711" target="_blank">Facebook của Đăng Hướng</a>
 
     <div class="social-links">
         <a href="https://facebook.com/yourprofile" target="_blank">Facebook</a>
